@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorExampleApplication", "RazorExampleApplication\RazorExampleApplication.csproj", "{59502C58-B4E9-46AB-9D33-8EF01B5C1294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59502C58-B4E9-46AB-9D33-8EF01B5C1294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59502C58-B4E9-46AB-9D33-8EF01B5C1294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59502C58-B4E9-46AB-9D33-8EF01B5C1294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59502C58-B4E9-46AB-9D33-8EF01B5C1294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A29732B-B8D1-45CB-BB7E-6EEEE146B54D}
+	EndGlobalSection
+EndGlobal
