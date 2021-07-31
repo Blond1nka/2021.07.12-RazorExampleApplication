@@ -42,6 +42,12 @@ namespace RazorExampleApplication.Controllers
             return View(model);
         }
 
+        public IActionResult Fakelogin()
+        {
+            return View();
+        }
+
+
         public IActionResult DisplayRegister(IndexModel model)
         {
             return View(model);
